@@ -139,8 +139,8 @@ before using it elsewhere.
   no way of knowing which data each user is allowed to see.
 - DOM-based XSS is not covered. It happens in the browser and needs DOM
   analysis, not just a look at the response.
-- SQL injection through cookies or headers and out-of-band XXE are not tested
-  yet.
+- Out-of-band XXE, where the server sends the data to another host, is not
+  tested yet.
 - The list of vulnerable JavaScript versions is small. A real tool would use a
   full database such as OSV or Retire.js.
 
