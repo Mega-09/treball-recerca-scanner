@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Created at run time
+*.db
+*.log
+report.json
+
+# Research project documents (kept out of the repository)
+*.docx
+*.pdf
+*.xlsx
+captures/
+MILLORES_TR.md

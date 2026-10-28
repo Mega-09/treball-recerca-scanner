@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<symbol id="shield" viewBox="0 0 24 24"><path d="M12 3 4.500 6v6c0 4.500 3.200 7.800 7.500 9 4.300-1.200 7.500-4.500 7.500-9V6z"/><path d="m9 12 2 2 4-4"/></symbol>
+<symbol id="globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.800 3 2.800 15 0 18M12 3c-2.800 3-2.800 15 0 18"/></symbol>
+<symbol id="play" viewBox="0 0 24 24"><path d="M7 4.500v15l12-7.500z"/></symbol>
+<symbol id="download" viewBox="0 0 24 24"><path d="M12 4v11M7 11l5 5 5-5M5 20h14"/></symbol>
+<symbol id="chevron" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></symbol>
+<symbol id="clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+<symbol id="file" viewBox="0 0 24 24"><path d="M7 3h7l4 4v14H7zM14 3v4h4"/></symbol>
+<symbol id="target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1"/></symbol>
+<symbol id="alert" viewBox="0 0 24 24"><path d="M12 3 2.500 20h19zM12 10v4M12 17v.5"/></symbol>
+<symbol id="check" viewBox="0 0 24 24"><path d="m5 12 5 5 9-10"/></symbol>
+<symbol id="link" viewBox="0 0 24 24"><path d="M10 14a4 4 0 0 0 5.700 0l3-3a4 4 0 0 0-5.700-5.700l-1 1M14 10a4 4 0 0 0-5.700 0l-3 3a4 4 0 0 0 5.700 5.700l1-1"/></symbol>
+<symbol id="lock" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></symbol>
+</svg>
